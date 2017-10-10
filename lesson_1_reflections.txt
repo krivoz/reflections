@@ -11,3 +11,9 @@ Reflect: Manual Commits
 By committing manually instead of automaticall, you can decide what to commit and when.
 This gives the opportunity to split the commits based on functionality. 
 By committing manually you can specify commit messages describing what has changed, instead of only showing an auto commit.
+
+Reflect: Multi-File commits
+Multi-file commits are usefull when files are related to eachother.
+"Normal" documents seldom have relations, so those are not needed. In sourcecode, files will have lots of relations.
+So having multi-file commits is an essential feature.
+
